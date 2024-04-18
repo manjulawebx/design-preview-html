@@ -12,4 +12,4 @@ Simply replace design layout image files called "home_large.jpg" and "home_small
 
 ## Demo
 
-[http://comtech.icu/demo/design-preview/] http://comtech.icu/demo/design-preview/
+http://comtech.icu/demo/design-preview/
