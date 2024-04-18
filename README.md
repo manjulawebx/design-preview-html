@@ -1,4 +1,4 @@
-# Web Design Layout Preview HTML (simple)
+# Responsive Web Design Layouts Preview HTML (simple)
 
 ## Introduction
 
