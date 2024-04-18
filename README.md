@@ -9,3 +9,7 @@ This html page supports to have multiple layouts for responsive web site.
 ## How to Use
 
 Simply replace design layout image files called "home_large.jpg" and "home_small.jpg".
+
+## Demo
+
+[http://comtech.icu/demo/design-preview/] http://comtech.icu/demo/design-preview/
